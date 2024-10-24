@@ -1,0 +1,28 @@
+.footer {
+    background-color: #ffffff;  
+    text-align: center;
+
+}
+
+.text7 h2 {
+    font-size: 80px;
+
+  }
+
+  .text7 {
+    text-align: center;
+    font-family: "Metal Mania";
+    margin-bottom: 50px;
+    color: #FFD700;
+    padding-bottom: 15px;
+    border-bottom: 2px solid #ffffff ;
+    margin-top: 50px;
+  }
+
+  .text8 h2 {
+    margin-top: 100px;
+  }
+
+  .text9 {
+    margin-top: 100px;
+  }

@@ -1,0 +1,92 @@
+
+
+.contenedor22 {
+    background-color: #42424266;
+    width: 1200px;
+    height: 900px;
+    margin-top: 50px;
+    margin: auto;
+}
+
+.text-con {
+    text-align: left;
+    margin-left: 50px;
+    margin-top: 50px;
+    padding-top: 50px;
+}
+
+.text-con h1{
+    font-family: "Metal Mania";
+    font-size: 70px;
+}
+
+.text-con h3{
+    font-family: "Josefin Sans";
+    font-size: 30px;
+    text-transform: uppercase;
+}
+
+.text-con h4{
+    font-family: "Josefin Sans";
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+.contenedor222 {
+    
+    text-align: left;
+}
+
+.contacto {
+    text-align: left;
+    margin-left: 50px;
+    margin-top: 20px;
+    display: flex;
+}
+
+.contacto2 {
+    text-align: left;
+    margin-left: 50px;
+    
+    display: flex;
+
+}
+
+.contacto2 {
+    text-align: left;
+    margin-left: 50px;
+    
+    display: flex;
+
+}
+
+.contacto2 p {
+    margin-left: 20px;
+    font-family: "Josefin Sans";
+    font-size: 20px;
+}
+
+.contacto p {
+    margin-left: 20px;
+    font-family: "Josefin Sans";
+    font-size: 20px;
+}
+
+.tel {
+    font-size: 25px;
+}
+
+.link33 {
+    color: white;
+}
+
+.link333 {
+    color: white;
+    text-decoration: none;
+
+}
+
+.mapa {
+    margin-left: 100px;
+    margin-right: 100px;
+}
