@@ -1,0 +1,158 @@
+  .imagen {
+    background-image: url(https://www.salaspectrum.com/wp-content/uploads/2023/08/pexels-vishnu-r-nair-1105666-1-e1697207191998.jpg); 
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    
+  }
+  .imagen h2 {
+    font-family: "Metal Mania";
+    font-size: 80px;
+    text-align: center;
+    padding-top: 50px;
+    margin-bottom: 50px;
+    color: white;
+
+  }
+
+  .contenedor11 {
+    background-color: #42424266;
+    border-radius: 16px 16px 16px 16px;
+    width: 1200px;
+    height: 1220px;
+    padding-top: 30px;
+    margin: 0 auto;
+      
+   
+  }
+
+  .flecha {
+    margin-bottom: 40px;
+    margin-top: 20px;
+    
+  }
+
+  .h2 {
+    margin-bottom: 40px;
+  }
+
+  .contenedor12 {
+    background-color: #42424266;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border-radius: 16px 16px 16px 16px;
+    width: 1200px;
+    height: 375px;
+    padding-top: 50px;
+    margin: 0 auto;      
+   
+  }
+
+  .jai {
+    background-image: url(https://www.salaspectrum.com/wp-content/uploads/2024/10/FondoFuego_Tilling-1.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .box {
+    border: solid white 1px;
+    width: 1100px;
+    height: 250px;
+    margin-left: 50px;
+    border-left: solid #ffd700 5px;
+    margin-top: 30px;
+    display: flex;
+    
+    
+  }
+
+  .box1 {
+    
+    border: solid white 1px;
+    width: 1100px;
+    height: 250px;
+    margin-left: 50px;
+    border-left: solid #ffd700 5px;
+    margin-top: 30px;
+    display: flex;
+    
+    
+  }
+
+  .text3 {
+    text-align: left;
+    margin-left: 55px;
+    margin-top: 75px;
+    width: 80px;
+    font-family: "Josefin Sans";
+      
+  }
+  
+  .text4 {
+    text-align: left;
+    font-family: "Metal Mania";
+    width: 500px;
+    margin-left: 80px;
+    margin-right: 50px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    border-bottom: 2px solid #FFD700 ;
+      
+  }
+  
+  .text4 p {
+    font-family: "Josefin Sans";
+  
+  }
+  
+  .text4 h4 {
+    font-family: "Josefin Sans";
+  
+  }
+
+  .img-box {
+    border-radius: 16px 16px 16px 16px;
+    background-size: cover;
+    background-position: bottom center;
+    width: 170px;
+    margin-top: 5px;
+    margin-left: 130px;
+      
+  }
+
+  .button {
+    display: block;
+    background-color: #FFD700;
+    border-radius: 5px 5px 5px 5px;
+    padding: 15px 15px 15px 15px;
+    border-style: none;
+    align-items: center;
+    position: relative;
+    font-size: 18px;
+    margin-left: 450px;
+    margin-top: 40px;
+    box-shadow: 0 5px #666; 
+    
+  }
+  
+  .btn {
+    font-family: "Josefin Sans";
+    text-decoration: none;
+    color: #000000;
+  
+  }
+
+  .button:hover {
+    background-color: #FFD700
+  
+  }
+  
+  .button:active {
+    background-color: #FFD700;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }

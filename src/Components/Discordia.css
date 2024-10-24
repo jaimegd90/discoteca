@@ -1,0 +1,124 @@
+.contenedor12 {
+    background-color: #42424266;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border-radius: 16px 16px 16px 16px;
+    width: 1200px;
+    height: 375px;
+    padding-top: 50px;
+    margin: 0 auto;      
+   
+  }
+
+  .contenedor123 {
+    background-color: #42424266;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border-radius: 16px 16px 16px 16px;
+    width: 1200px;
+    height: 200px;
+    padding-top: 50px;
+    margin: 0 auto;  
+     
+   
+  }
+
+  .contenedor1234 {
+    background-color: #42424266;
+    margin-top: 60px;
+    margin-bottom: 50px;
+    border-radius: 16px 16px 16px 16px;
+    width: 1200px;
+    height: 400px;
+    padding-top: 50px;
+    margin: 0 auto;   
+   
+  }
+
+  .jai {
+    background-image: url(https://www.salaspectrum.com/wp-content/uploads/2024/10/FondoFuego_Tilling-1.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+  }
+
+  .box11 {
+    
+    width: 1100px;
+    height: 250px;
+    margin-left: 50px;
+    margin-top: 30px;
+    display: flex;
+    
+    
+  }
+
+  .text3 {
+    text-align: left;
+    margin-left: 55px;
+    margin-top: 75px;
+    width: 80px;
+    font-family: "Josefin Sans";
+      
+  }
+  
+  .text4 {
+    
+    font-family: "Metal Mania";
+    width: 500px;
+    margin-left: 80px;
+    margin-right: 50px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    border-bottom: 2px solid #FFD700 ;
+      
+  }
+
+  .img222 {
+    margin: 0 auto;
+    margin-top: 80px;
+  
+  }
+
+  .text44 h1{
+    font-family: "Metal Mania";
+    margin-left: 300px;
+    
+    
+  }
+  
+  .fondo {
+    background-image: url("https://www.salaspectrum.com/wp-content/uploads/2024/10/IMG_2420-scaled.jpg") ;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+    filter: brightness(20%);
+    margin-bottom: 10px;
+
+  }
+  
+  .text4 p {
+    font-family: "Josefin Sans";
+  
+  }
+  
+  .text4 h4 {
+    font-family: "Josefin Sans";
+  
+  }
+
+  .img-box {
+    border-radius: 16px 16px 16px 16px;
+    background-size: cover;
+    background-position: bottom center;
+    width: 170px;
+    margin-top: 5px;
+    margin-left: 130px;
+      
+  }
+  
+  
+
